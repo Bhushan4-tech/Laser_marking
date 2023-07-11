@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LaserMarking</id>
+    <version>1.0.0</version>
+    <authors>LaserMarking</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="RestSharp" version="108.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\bin\Debug\net6.0-windows\LaserMarking.runtimeconfig.json" target="lib\net6.0-windows7.0\LaserMarking.runtimeconfig.json" />
+    <file src="E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\bin\Debug\net6.0-windows\LaserMarking.dll" target="lib\net6.0-windows7.0\LaserMarking.dll" />
+  </files>
+</package>

@@ -1,0 +1,14 @@
+2022.08.25 ：V1.2可以get和Post
+	1、暂时发现问题：lasermarking完如果再按一次lasermarking则还会打标一次，
+	     原因是逻辑写成先打标，后post。
+	     解决办法：加条件，先get ok，后打标。
+2022.08.26:
+	1.There is no laser marking if we press foot switch.Only software button can be used for laser marking.
+
+2.We need to re-size the text freely by dragging the mouse.
+
+3.Aim beam size is not updated immediately if we change from one Tagid to other Tagid.It shows the previous AIM size only.
+
+4.This software needs to run on MASTER SLAVE combination of V-Lase with LAN connection.I hope you remember how we have done for previous Auto aim softwares.
+
+5.MASTER SLAVE is necessary because VLase has less memory and it could not run the google chrome so internet cannot be connected and government website cannot be accessed.

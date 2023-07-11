@@ -1,0 +1,5 @@
+2.2-------基于lighter7.4.4开发，
+
+2.4-------基于lighter7.4.0开发，将打标次数记录于“LaserMarking.lld”文档，增加zoom调整图档大小，缩小string调整的范围。
+
+2.5-------footswitch to post

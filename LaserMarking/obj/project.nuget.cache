@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6C5ww8149N6iwJpJwvpLqCVKzG4oC3wD72V1QrlYdxJx7qAYIq1kGaCNvFxYOvagX4RcQhfD/l8IlT6dIWNKlA==",
+  "success": true,
+  "projectFilePath": "E:\\Source code\\HUID\\BIS_LaserMarking_Vs2022\\lighter7.4\\LaserMarking_MASTER\\LaserMarking\\LaserMarking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patel\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

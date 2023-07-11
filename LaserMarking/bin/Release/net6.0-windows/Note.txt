@@ -1,0 +1,10 @@
+1：Moudel.xlp file is for one line marking ,Logo should be maked into .Xlp file and import to Moudel.xlp,   
+     make sure string ID is 1,Logo ID is 3.
+
+2：Moudel2.xlp is for break line marking,,Logo should be maked into .Xlp file and import to Moudel2.xlp, 
+     make sure Purity text ID is 1, HUID text ID is 2,Logo ID is 3.
+
+3：Input the user name,key,and ip into user.dat
+
+4：Using in Lighter7.4.0 Master version
+

@@ -1,0 +1,114 @@
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking\LaserMarking\bin\Release\net6.0-windows\LaserMarking.exe
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking\LaserMarking\bin\Release\net6.0-windows\LaserMarking.deps.json
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking\LaserMarking\bin\Release\net6.0-windows\LaserMarking.runtimeconfig.json
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking\LaserMarking\bin\Release\net6.0-windows\LaserMarking.dll
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking\LaserMarking\bin\Release\net6.0-windows\LaserMarking.pdb
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking\LaserMarking\bin\Release\net6.0-windows\RestSharp.dll
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking\LaserMarking\obj\Release\net6.0-windows\LaserMarking.csproj.AssemblyReference.cache
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking\LaserMarking\obj\Release\net6.0-windows\Interop.laserengineLib.dll
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking\LaserMarking\obj\Release\net6.0-windows\LaserMarking.csproj.ResolveComReference.cache
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking\LaserMarking\obj\Release\net6.0-windows\LaserMarking.ControlLighter.resources
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking\LaserMarking\obj\Release\net6.0-windows\LaserMarking.Form1.resources
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking\LaserMarking\obj\Release\net6.0-windows\LaserMarking.csproj.GenerateResource.cache
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking\LaserMarking\obj\Release\net6.0-windows\LaserMarking.GeneratedMSBuildEditorConfig.editorconfig
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking\LaserMarking\obj\Release\net6.0-windows\LaserMarking.AssemblyInfoInputs.cache
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking\LaserMarking\obj\Release\net6.0-windows\LaserMarking.AssemblyInfo.cs
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking\LaserMarking\obj\Release\net6.0-windows\LaserMarking.csproj.CoreCompileInputs.cache
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking\LaserMarking\obj\Release\net6.0-windows\LaserMarking.csproj.CopyComplete
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking\LaserMarking\obj\Release\net6.0-windows\LaserMarking.dll
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking\LaserMarking\obj\Release\net6.0-windows\refint\LaserMarking.dll
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking\LaserMarking\obj\Release\net6.0-windows\LaserMarking.pdb
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking\LaserMarking\obj\Release\net6.0-windows\LaserMarking.genruntimeconfig.cache
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking\LaserMarking\obj\Release\net6.0-windows\ref\LaserMarking.dll
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking_MASTER\LaserMarking\bin\Release\net6.0-windows\LaserMarking.exe
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking_MASTER\LaserMarking\bin\Release\net6.0-windows\LaserMarking.deps.json
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking_MASTER\LaserMarking\bin\Release\net6.0-windows\LaserMarking.runtimeconfig.json
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking_MASTER\LaserMarking\bin\Release\net6.0-windows\LaserMarking.dll
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking_MASTER\LaserMarking\bin\Release\net6.0-windows\LaserMarking.pdb
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking_MASTER\LaserMarking\bin\Release\net6.0-windows\RestSharp.dll
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.csproj.AssemblyReference.cache
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\Interop.laserengineLib.dll
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.csproj.ResolveComReference.cache
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.ControlLighter.resources
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.Form1.resources
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.csproj.GenerateResource.cache
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.GeneratedMSBuildEditorConfig.editorconfig
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.AssemblyInfoInputs.cache
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.AssemblyInfo.cs
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.csproj.CoreCompileInputs.cache
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.csproj.CopyComplete
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.dll
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\refint\LaserMarking.dll
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.pdb
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.genruntimeconfig.cache
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\ref\LaserMarking.dll
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter6.2\LaserMarking_MASTER\LaserMarking\bin\Release\net6.0-windows\LaserMarking.exe
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter6.2\LaserMarking_MASTER\LaserMarking\bin\Release\net6.0-windows\LaserMarking.deps.json
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter6.2\LaserMarking_MASTER\LaserMarking\bin\Release\net6.0-windows\LaserMarking.runtimeconfig.json
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter6.2\LaserMarking_MASTER\LaserMarking\bin\Release\net6.0-windows\LaserMarking.dll
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter6.2\LaserMarking_MASTER\LaserMarking\bin\Release\net6.0-windows\LaserMarking.pdb
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter6.2\LaserMarking_MASTER\LaserMarking\bin\Release\net6.0-windows\RestSharp.dll
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter6.2\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.csproj.AssemblyReference.cache
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter6.2\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\Interop.laserengineLib.dll
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter6.2\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.csproj.ResolveComReference.cache
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter6.2\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.ControlLighter.resources
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter6.2\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.Form1.resources
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter6.2\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.csproj.GenerateResource.cache
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter6.2\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.GeneratedMSBuildEditorConfig.editorconfig
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter6.2\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.AssemblyInfoInputs.cache
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter6.2\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.AssemblyInfo.cs
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter6.2\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.csproj.CoreCompileInputs.cache
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter6.2\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.csproj.CopyComplete
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter6.2\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.dll
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter6.2\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\refint\LaserMarking.dll
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter6.2\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.pdb
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter6.2\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.genruntimeconfig.cache
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter6.2\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\ref\LaserMarking.dll
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\bin\Release\net6.0-windows\LaserMarking.exe
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\bin\Release\net6.0-windows\LaserMarking.deps.json
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\bin\Release\net6.0-windows\LaserMarking.runtimeconfig.json
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\bin\Release\net6.0-windows\LaserMarking.dll
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\bin\Release\net6.0-windows\LaserMarking.pdb
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\bin\Release\net6.0-windows\RestSharp.dll
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.csproj.AssemblyReference.cache
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.csproj.ResolveComReference.cache
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.ControlLighter.resources
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.Form1.resources
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.csproj.GenerateResource.cache
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.GeneratedMSBuildEditorConfig.editorconfig
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.AssemblyInfoInputs.cache
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.AssemblyInfo.cs
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.csproj.CoreCompileInputs.cache
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.csproj.CopyComplete
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.dll
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\refint\LaserMarking.dll
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.pdb
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.genruntimeconfig.cache
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\ref\LaserMarking.dll
+E:\Laservall\Stanley\PostMan_Get_Post_Lasermarking\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\Interop.laserremotecontrolLib.dll
+E:\Source code\HUID\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\bin\Release\net6.0-windows\LaserMarking.exe
+E:\Source code\HUID\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\bin\Release\net6.0-windows\LaserMarking.dll.config
+E:\Source code\HUID\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\bin\Release\net6.0-windows\LaserMarking.deps.json
+E:\Source code\HUID\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\bin\Release\net6.0-windows\LaserMarking.runtimeconfig.json
+E:\Source code\HUID\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\bin\Release\net6.0-windows\LaserMarking.dll
+E:\Source code\HUID\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\bin\Release\net6.0-windows\LaserMarking.pdb
+E:\Source code\HUID\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\bin\Release\net6.0-windows\RestSharp.dll
+E:\Source code\HUID\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.csproj.AssemblyReference.cache
+E:\Source code\HUID\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.csproj.SuggestedBindingRedirects.cache
+E:\Source code\HUID\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.dll.config
+E:\Source code\HUID\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\Interop.laserengineLib.dll
+E:\Source code\HUID\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.csproj.ResolveComReference.cache
+E:\Source code\HUID\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.ControlLighter.resources
+E:\Source code\HUID\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.Form1.resources
+E:\Source code\HUID\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.Properties.Resources.resources
+E:\Source code\HUID\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.csproj.GenerateResource.cache
+E:\Source code\HUID\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source code\HUID\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.AssemblyInfoInputs.cache
+E:\Source code\HUID\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.AssemblyInfo.cs
+E:\Source code\HUID\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.csproj.CoreCompileInputs.cache
+E:\Source code\HUID\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.csproj.CopyComplete
+E:\Source code\HUID\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.dll
+E:\Source code\HUID\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\refint\LaserMarking.dll
+E:\Source code\HUID\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.pdb
+E:\Source code\HUID\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\LaserMarking.genruntimeconfig.cache
+E:\Source code\HUID\BIS_LaserMarking_Vs2022\lighter7.4\LaserMarking_MASTER\LaserMarking\obj\Release\net6.0-windows\ref\LaserMarking.dll
